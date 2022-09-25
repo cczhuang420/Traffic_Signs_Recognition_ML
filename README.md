@@ -2,7 +2,8 @@
 design machine learning models for a real-world traffic sign recognition application using popular neural network (multi-layer perceptron) and support vector machine models
 
 ## Libaries
-Numpy, Matplotlib, Scikit learn, skimage
+Numpy, Matplotlib, Scikit learn, 
+skimage: $conda install -c anaconda scikit-image
 
 ## Data: 
 https://www.kaggle.com/datasets/flo2607/traffic-signs-classification?resource=download

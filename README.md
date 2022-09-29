@@ -16,7 +16,7 @@ https://docs.conda.io/en/latest/miniconda.html
 
 `conda env list`
 
-## Activate conda env
+## Activate conda env (2 methods)
 
 1st: `conda activate ./env`
 

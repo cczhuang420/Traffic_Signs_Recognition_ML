@@ -36,7 +36,7 @@ Use `Save_data_to_joblib.ipynb` to step by step achieve this
 
 ## Train the models using different algorithms
 
-**Traffic_recognition_MLP.ipynb -> train MLP models using scikit leatn MLPClassifier and Tensorflow
+* `Traffic_recognition_MLP.ipynb` -> train MLP models using scikit leatn MLPClassifier and Tensorflow
 
-**linear_svc.ipynb/ ploy_svc.ipynb/rbf_svc.ipynb -> train SVC models using different kernels
+* `linear_svc.ipynb`/ `ploy_svc.ipynb`/ `rbf_svc.ipynb` -> train SVC models using different kernels
 

@@ -26,6 +26,17 @@ https://docs.conda.io/en/latest/miniconda.html
 
 `jupyter notebook`
 
-## Data:
+## Download Data:
 
 https://www.kaggle.com/datasets/flo2607/traffic-signs-classification?resource=download
+
+## Preprocess data | Split the data | Save each dataset to .joblib format
+
+Use `Save_data_to_joblib.ipynb` to step by step achieve this
+
+## Train the models using different algorithms
+
+**Traffic_recognition_MLP.ipynb -> train MLP models using scikit leatn MLPClassifier and Tensorflow
+
+**linear_svc.ipynb/ ploy_svc.ipynb/rbf_svc.ipynb -> train SVC models using different kernels
+
